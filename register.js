@@ -78,6 +78,6 @@ form.addEventListener('submit', function(event){
         addData();
         form.reset()
         alert('Registration Successful. Redirecting to login page.');
-        window.location ='index.html'
+        window.location ='login.html'
     }
 });
